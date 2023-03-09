@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<a href="magnet:?xt=urn:btih:5bea6eb371eb6a4d2cff8d8afc544b13f1fac54c&dn=%5BEMBER%5D%20Komi%20Can%27t%20Communicate%20%282021%29%20%28Season%201%29%20%5B1080p%5D%20%5BDual%20Audio%20HEVC%2010%20bits%20WEBRip%20DDP%5D%20%28Komi-san%20wa%2C%20Comyushou%20desu.%29%20%28Batch%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce" download>Download</a>
+<script src="https://cdn.jsdelivr.net/npm/@webtor/embed-sdk-js/dist/index.min.js" charset="utf-8" async></script>
+
+
+</body>
+</html>
